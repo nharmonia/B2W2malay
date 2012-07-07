@@ -3,6 +3,106 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000Pilih Pokémon.
+Guna utk Pokémon mana?
+Pindah yg mana?
+lawan guna Pokémon mana?
+Tukar Pokémon mana?
+L\xf000Ȃ\x0001\x0000
+/
+\xf000Ȃ\x0001\x0000
+\xf000Ć\x0001\x0000
+\xf000ĉ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+PP
+TUKAR
+♂
+♀
+INFOTENGOK MOVESTAK BOLEH BATTLE
+DALAM BATTLE
+STAND DENGANPASANGAN'STiada Item dipegang
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+Lv.
+\xf000Ȃ\x0001\x0000
+NEXT LV
+\xf000ȅ\x0001\x0000
+\xf000Ć\x0001\x0000
+HP
+\xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+／SERANGAN
+\xf000Ȃ\x0001\x0000
+PRTAHANAN\xf000Ȃ\x0001\x0000
+SP. SERANGAN
+\xf000Ȃ\x0001\x0000
+SP. PR
+\xf000Ȃ\x0001\x0000
+KELAJUAN
+\xf000Ȃ\x0001\x0000
+\xf000ć\x0001\x0000
+PP
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+／
+――
+POWER
+\xf000Ȃ\x0001\x0000
+―
+KETEPATAN
+\xf000Ȃ\x0001\x0000
+CATEGORY
+PHYSICAL
+STATUS
+SPECIAL
+APPEAL POINT(s)
+FORGET
+CANCEL
+HM tak dapat\xfffedelete skrg.
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000Ă\x0001\x0000 is\xfffealready in battle!
+\xf000Ă\x0001\x0000 has no energy\xfffeleft to battle!
+\xf000Ă\x0001\x0000 can't be switched\xfffeout!
+An Egg can't battle!
+You cannot decide for\xfffeyour partner!
+It won't have any effect.
+\xf000Ă\x0001\x0000's HP was restored\xfffeby \xf000Ȃ\x0001\x0001 point(s).
+\xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
+\xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
+\xf000Ă\x0001\x0000's burn was healed.
+\xf000Ă\x0001\x0000 was thawed out.
+PP was restored.　
+\xf000Ă\x0001\x0000 recovered from\xfffefainting!
+\xf000Ă\x0001\x0000 became healthy.
+\xf000Ă\x0001\x0000 snapped out of its\xfffeconfusion.
+\xf000Ă\x0001\x0000 \xfffegot over its infatuation.
+\xf000Ă\x0001\x0000 woke up.
+\xf000Ă\x0001\x0000 sudah\xfffedipilih.
+Pulihkn yg mana?
+\xf000ć\x0001\x0001's efek dihalang\xfffeitem diguna \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000 tak boleh ditukar\xfffeout!
+\xf000Ă\x0001\x0000 sudah ditukar\xfffeout.\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 Choose a Pokémon.
 Use on which Pokémon?
