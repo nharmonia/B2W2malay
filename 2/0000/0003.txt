@@ -1,61 +1,21 @@
-Would you like to save the last battle\xfffeas your Battle Video?
-Yes
-No
-The last battle will not be saved.\xfffeOK?
-Yes
-No
-Is it OK to overwrite your existing\xfffeBattle Video?
-Yes
-No
-Saving your Battle Video...\xfffeDon't turn off the power.
-The Battle Video has been saved.
-There was an error.\xfffeThe Battle Video couldn't be saved.
-Awaiting your friend's decision...\xfffePlease wait.
-You cannot record videos\xfffewith this Trainer... Please wait.
-+You cannot record videos\xfffewith this Trainer.
-The last battle cannot be recorded.
-Time Limit:
-\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
-\xf000ȁ\x0001\x0001
-PREVIOUS RECORD
-Colosseum Single,\xfffeNo Restrictions
-Colosseum Single,\xfffeFlat
-Colosseum Single,\xfffeNo Restrictions, Launcher On
-Colosseum Single,\xfffeFlat, Launcher On
-Colosseum Double,\xfffeNo Restrictions
-Colosseum Double,\xfffeFlat
-Colosseum Double,\xfffeNo Restrictions, Launcher On
-Colosseum Double,\xfffeFlat, Launcher On
-Colosseum Triple,\xfffeNo Restrictions
-Colosseum Triple,\xfffeFlat
-Colosseum Triple,\xfffeNo Restrictions, Launcher On
-Colosseum Triple,\xfffeFlat, Launcher On
-Colosseum Rotation,\xfffeNo Restrictions
-Colosseum Rotation,\xfffeFlat
-Colosseum Rotation,\xfffeNo Restrictions, Launcher On
-Colosseum Rotation,\xfffeFlat, Launcher On
-Colosseum Multi,\xfffeNo Restrictions
-Colosseum Multi,\xfffeFlat
-Colosseum Multi,\xfffeNo Restrictions, Launcher On
-Colosseum Multi,\xfffeFlat, Launcher On
-Battle Subway,\xfffeSingle
-Battle Subway,\xfffeDouble
-Battle Subway,\xfffeMulti
-Random Matchup, Free\xfffeSingle
-Random Matchup, Free\xfffeDouble
-Random Matchup, Free\xfffeTriple
-Random Matchup, Free\xfffeRotation
-Random Matchup, Free\xfffeLauncher Battle
-Random Matchup, Rating\xfffeSingle
-Random Matchup, Rating\xfffeDouble
-Random Matchup, Rating\xfffeTriple
-Random Matchup, Rating\xfffeRotation
-Random Matchup, Rating\xfffeLauncher Battle
-Competition, Single\xfffeLauncher Off
-Competition, Single\xfffeLauncher On
-Competition, Double\xfffeLauncher Off
-Competition, Double\xfffeLauncher On
-Competition, Triple\xfffeLauncher Off
-Competition, Triple\xfffeLauncher On
-Competition, Rotation\xfffeLauncher Off
-Competition, Rotation\xfffeLauncher On
+Selamat Datang ke\xfffePertandingan!
+
+Terdapat 2 jenis Pertandingan.\xfffeYang pertama adalah Wi-Fi, yang berlangsung menggunakan\xf000븀\x0000\xfffeNintendo Wi-Fi Connection, dan 1 lagi\xf000븀\x0000\xfffeadalah Pertandingan Terbuka, dimana\xf000븀\x0000\xfffeia akan melalui acara tertentu.\xf000븁\x0000\xfffeHanya Pokémon berdaftar didalam\xfffeKotak Perlawanan boleh menyertai.\xf000븁\x0000\xfffePokemon yg berdaftar tidak boleh diubah\xfffekedudukan di dalam\xf000븀\x0000\xfffeKotak Perlawanan\xf000븁\x0000\xfffeApabila menyertai pertandingan,\xfffeID Pemain Digital akan dikemaskini.\xf000븀\x0000\xfffeSila periksa balik.\xf000븁\x0000
+Ke Pertandingan Wi-Fi
+Ke Pertandingan Terbuka
+Semak ID Pemain Digital
+Info
+Balik
+Sertai
+Untuk menyertai Pertandingan Wi-Fi,\xfffeakses ke webpage\xf000븀\x0000\xfffe Pokémon Global Link untuk daftar.\xf000븀\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000\xfffeSila semak Pokémon Global Link\xfffelaman sesawang utk syarat pertandingan,\xf000븀\x0000\xfffedurasi, dan lain-lain.\xf000븁\x0000
+Sertai\xfffethe Pertandingan Wi-Fi?
+Keluar\xfffethe Pertandingan Wi-Fi?
+Ya
+Tidak
+Batal penyertaan
+Sertai\xfffethe Pertandingan Terbuka?
+Segala info tentang\xfffePertandingan Terbuka boleh disemak\xf000븀\x0000\xfffedi Laman Utama Pokémon:\xf000븀\x0000\xfffehttp://www.pokemon.com.\xf000븁\x0000\xfffeSila semak Laman Utama Pokémon\xfffeuntuk syarat pertandingan,\xf000븀\x0000\xfffedurasi, dan lain-lain.\xf000븁\x0000
+Jika kuasa terpadam\xfffesemasa pertandingan atau\xf000븀\x0000\xfffepertandingan rawak Wi-Fi,\xf000븁\x0000\xfffeSila\xfffecuba sebentar lagi\xf000븀\x0000\xfffedalam 1 jam.\xf000븁\x0000
+\xfffesedang Menyimpan! Jangan padamkan kuasa/mesin!
+Battle Points akan diberi\xfffesemasa keputusan pertandingan!\xf000븁\x0000
+\xf000Ā\x0001\x0000telah dikumpul \xfffe\xf000ȁ\x0001\x0001BP! \xf000븁\x0000
