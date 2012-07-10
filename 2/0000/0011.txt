@@ -15,10 +15,10 @@ TOTAL
 REMAINING
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 CHECK
-YES
-NO
+YA
+TIDAK
 CHECK
-CLOSE
+TUTUP
 Hiya!
 \xf000Ā\x0001\x0000 is nearby.
 \xf000Ā\x0001\x0000 started battling\xfffea wild \xf000ā\x0001\x0001!
