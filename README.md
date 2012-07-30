@@ -1,7 +1,7 @@
-B2W2maylay
+B2W2malay/malaysia
 =======
 
-Pokemon Black2 �& White2 Maylay Translation by PokeStation
+Pokemon Black2 �& White2 Malaysia Translation by PokeStation
 
 Contributors:
 Kyohack
