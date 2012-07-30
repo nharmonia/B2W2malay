@@ -1,37 +1,37 @@
 \xf000Ā\x0001\x0000
 ID \xf000Ȅ\x0001\x0000
-\xf000Ȁ\x0001\x0000 diperlukan lebih.
-Sampai dengan \xf000Ȁ\x0001\x0000 diperbolehkan.
-Mencari peserta Multi Battle!
-Mencari peserta musikal!
-Mencari peserta Multi Battle!
+\xf000Ȁ\x0001\x0000 more needed.
+Up to \xf000Ȁ\x0001\x0000 more allowed.
+Menncari peserta perlawanan multi!
+Mencari peserta muzikal!
+Mencari perlawanan subway!
 \xf000Ā\x0001\x0000\xf000봅\x0001FID: \xf000Ȅ\x0001\x0001
-Menunggu peserta...\xfffeB Tombol: Batalkan
-Apabila kumpulan sedia:\xfffeA Button: Proceed   Tombol B: Batalkan
-\xf000Ā\x0001\x0000 telah menghubungi anda.\xfffe Masukkan ke kumpulan?
-Apakah kumpulan ini OK?
-Apakah anda akan membatalkan Multi Battle?
-Apakah anda akan membatalkan Musikal?
-Apakah anda akan membatalkan Battle Subway?
-Apabila pemimpin keluar, kumpulan akan\xfffebe dibubarkan. Apakah ini OK?
-Multi Battle akan\xfffedibatalkan.
-Musikal akan\xfffedibatalkan.
-Battle Subway akan\xfffedibatalkan.
-Ada masalah\xfffedengan kumpulan ini.
-Tak ada peserta.\xfffeMulti Battle akan dibatalkan.
-Sila tunggu.\xfffeTombol B: Batalkan
-Sila tunggu.
-Nampaknya ada masalah.\xfffeMulti Battle akan dibatalkan.\xf000븂\x0001<
-Nampaknya ada masalah.\xfffeMusikal akan dibatalkan.\xf000븂\x0001<
-Nampaknya ada masalah.\xfffeBattle Subway akan dibatalkan.\xf000븂\x0001<
+Menunggu Ahli yg mendaftar masuk...\xfffeButang B: Batal
+Apabila kump. telah bersedia:\xfffeButang A: Teruskan   Butang B: Batal
+\xf000Ā\x0001\x0000 telah menghubungi.\xfffeTambah ahli?
+Kumpulan telah OK?
+Batalkan perlawanan multi?
+Batalkan teater muzikal?
+batalkan perlawanan subway?
+Apabila ketua keluar, kumpulan akan\xfffebersurai. Setuju?
+Perlawanan Multi\xfffedibatalkan.
+Teater Muzikal\xfffedibatalkan.
+Perlawanan Subway akan\xfffedibatalkan.
+Ada masalah dengan\xfffekumpulan.
+Taida ahli.\xfffePerlawanan multi dibatalkan.
+Sila Tunggu.\xfffeButang B: Batal
+Sila Tunggu.
+Ada Masalah.\xfffePerlawanan Multi dibatalkan.\xf000븂\x0001<
+Ada Masalah.\xfffeTeater Muzikal dibatalkan.\xf000븂\x0001<
+Ada Masalah.\xfffePerlawanan Subway dibatalkan.\xf000븂\x0001<
 \xf000ȁ\x0001\x0000:
 \xf000ȁ\x0001\x0000:\xf000Ā\x0001\x0001\xf000봅\x0001jID: \xf000Ȅ\x0001\x0002
-Pilih Musikal yang anda\xfffeakan sertai.
-Pilih Battle Subway yang anda\xfffeakan sertai.
-Peserta telah bergabung.\xfffesila masuk ke dalam bilik.
-\xf000Ā\x0001\x0000 refused...\xf000븂\x0001<
-Menunggu \xf000Ā\x0001\x0000's sambutan...\xfffeTombol B: Batalkan
-\xf000Ā\x0001\x0000 menjawab, “OK."
-Sila tunggu.\xfffeTombol B: Batalkan
-Apakah anda ingin meninggalkan kumpulan?
-Nampaknya ada masalah...\xf000븂\x0001<
+Pilih Muzikal yang\xfffeakan disertai.
+Pilih Perlawanan Subway yang\xfffeakan disertai.
+Ahli telah berkumpul.\xfffeSila masuk ke bilik ini.
+\xf000Ā\x0001\x0000 menolak...\xf000븂\x0001<
+Menunggu \xf000Ā\x0001\x0000 utk respon...\xfffeButang B: Batal
+\xf000Ā\x0001\x0000 Membalas, “OK."
+Sila Tunggu.\xfffeButang B: Batal
+Tingalkan kumpulan?
+Ada Masalah...\xf000븂\x0001<
